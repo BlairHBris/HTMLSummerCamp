@@ -1,0 +1,34 @@
+body{
+    margin: 5%;
+    align-items: center;
+    flex-flow: column nowrap;
+    display: flex;
+    background-image: url(images/sports.jfif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1,
+h2,
+h3{
+    font-family: papyrus;
+}
+
+h1{
+    font-size: 2.5em;
+}
+
+h2{
+    font-size: 2em;
+}
+
+label{
+    margin-bottom: .5em;
+}
+
+label,
+button{
+    margin-top: 1em;
+}
+
